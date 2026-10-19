@@ -2,9 +2,9 @@
 
 <a id="top"></a>
 
-# build-workbench.github.io
+# holtwood-projects.github.io
 
-The Build Workbench organization portal site. A static single page, hosted by GitHub Pages at <https://build-workbench.github.io>.
+The Holtwood Projects organization portal site. A static single page, hosted by GitHub Pages at <https://holtwood-projects.github.io>.
 
 ## Local Preview
 
@@ -24,9 +24,9 @@ Then visit <http://localhost:8000>.
 <a id="chinese"></a>
 [English](#top) | **中文**
 
-# build-workbench.github.io
+# holtwood-projects.github.io
 
-Build Workbench 组织门户站点。静态单页,由 GitHub Pages 托管于 <https://build-workbench.github.io>。
+Holtwood Projects 组织门户站点。静态单页,由 GitHub Pages 托管于 <https://holtwood-projects.github.io>。
 
 ## 本地预览
 
