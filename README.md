@@ -18,6 +18,9 @@ Then visit <http://localhost:8000>.
 
 - After adding/renaming projects, update the cards in `index.html` accordingly.
 - Project introductions and categories are governed by `.github/profile/README.md`; keep the two consistent.
+- Cross-account repo ownership and the rules for promotion / archiving are governed by
+  [holtwood/repos-db](https://github.com/holtwood/repos-db) (`ARCHITECTURE.md`). This site is a
+  scoped view of one organization only; when it disagrees with repos-db, repos-db wins.
 
 ---
 
